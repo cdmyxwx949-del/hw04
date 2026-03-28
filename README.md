@@ -6,13 +6,13 @@
 
 任务二
 文件：tea_life_voice.mp3                     # 生成克隆音频
-     jianying.md.pdf                        # 剪映产出说明
+     jianying.md.                           # 剪映产出说明
 
 任务三
 文件：asr_file.py                            # 音频文件识别脚本
      asr_realtime.py                        # 麦克风实时识别脚本
-     asr_report.md.py                       # ASR 报告与代码
-     exeriment_log.md.pdf                   # 记录实验过程与结果
+     asr_report.pdf                         # ASR 报告与代码
+     exeriment_log.md                       # 记录实验过程与结果
      ffmpeg-8.1.tar.xz                      # 音视频处理工具 / 库
      PyAudio-0.2.14-cp311-win_amd64.whl     # Python 在 Windows 上用来录音的驱动文件
      requirements.txt                       # 可复现代码
